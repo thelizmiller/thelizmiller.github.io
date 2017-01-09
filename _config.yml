@@ -14,9 +14,9 @@ permalink:        pretty
 
 # Setup
 
-title:            'Run Jekyll on Windows'
+title:            'The Liz Miller's Site'
 
-url:              http://jekyll-windows.juthilo.com
+url:              http://thelizmiller.github.io
 
 baseurl:          /
 
@@ -24,12 +24,12 @@ baseurl:          /
 
 github:
 
-  repo:           https://github.com/juthilo/run-jekyll-on-windows
+  repo:           https://github.com/thelizmiller
 
 
 
 author:
 
-  name:           'Julian Thilo'
+  name:           'Liz Miller'
 
-  url:            https://twitter.com/juthilo
+  url:            https://twitter.com/thelizmiller
